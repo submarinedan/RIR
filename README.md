@@ -1,2 +1,4 @@
 # RIR
 Reliability Incident Rate 
+#
+The attached report has been continuously updated over the years, and with the switch to PowerBI, much of the data can be mined much faster and at real-time via the Data Lake vice manual databases and spreadsheets.  I took over this report from Operations Department in 2020. It was tedious to manage, manual manipulation of data, bias, and full of human errors. In order to maintain the integrity, I had to be creative in how to save the current reporting structure, but streamline it to be done in about a day vice the approximately twenty days to perform my first report. Allowing data entry from PowerBI into this spreadsheet to then semi-automate all reports and graphs was my first step that reduced the time to about four days.  Writing a few macros, and creating color-coding for divisions and inputs helped me to achieve the goal to allow this report to be produced monthly and only two days after the end of the month to management. 
